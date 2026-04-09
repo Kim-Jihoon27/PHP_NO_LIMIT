@@ -1,6 +1,6 @@
 <?php 
 
-#Problem -  Implement a script that prints Hello World.
+#Problem - Implement a script that prints Hello World.
 
 
 $name = "Kim Jihoon";
